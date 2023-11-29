@@ -8,7 +8,7 @@
  // watermelon, tomato, banana, orange, avocado, blueberry 
  favouriteFruit("blueberry") 
   
- // light, dark 
+ // light, dark   
  favouriteMode("dark") 
   
  // sharp, soft, round 
